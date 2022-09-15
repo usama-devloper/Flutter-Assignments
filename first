@@ -1,4 +1,4 @@
-void main(List<String> args) {
+void main() {
   
   print("My name is Mohammad Usama Malik");
   print("My birthday : 9th Feb 1995");
